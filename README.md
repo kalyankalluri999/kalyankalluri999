@@ -8,7 +8,7 @@
 <h4>
 </h4>
 
-<h3 align="center">Advanced-level system engineer with around 4 years of IT experience at Tata Consultancy Services, India. Curious result-oriented, and IT professional with excellent communication and Leadership skills possessing a chat llenging position as data scientist where I can skill my technical Skills to develop, implement, and contribute it to the growth of the organization.</h3>
+<h3 align="center">Advanced-level system engineer with around 4 years of IT experience at Tata Consultancy Services, India. Curious, result-oriented, and IT professional with excellent communication and Leadership skills possessing a chat llenging position as data scientist where I can skill my technical Skills to develop, implement, and contribute it to the growth of the organization.</h3>
 
 
 
